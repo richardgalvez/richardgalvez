@@ -1,10 +1,10 @@
 # What's up? I'm Richard Galvez. 👨‍💻
 
-*I am a...*
+*I am a...* (Take Your Pick 👇)
 
-(Take Your Pick) 👉 **DevOps Engineer | Site Reliability Engineer | Infrastructure Engineer | Platform Engineer | Systems Engineer** ⚙️
+**DevOps Engineer | Site Reliability Engineer | Infrastructure Engineer | Platform Engineer | Systems Engineer** ⚙️
 
-Either way, I'm **all about Cloud, Systems, and Software Infrastructure Automation** 🤖
+Either way, I'm **all about automating the boring stuff in all kinds of Cloud, Systems, and Software infrastructure** 🤖
 
 ---
 
@@ -28,7 +28,7 @@ Either way, I'm **all about Cloud, Systems, and Software Infrastructure Automati
 
 ### ☁️ **Cloud and Infrastructure**
 
-- Amazon Web Services (AWS): VPC, S3, RDS, Lambda, SSM
+- Amazon Web Services (AWS): EC2, IAM, VPC, S3, RDS, EKS, Lambda, SSM
 - Microsoft Azure and Alibaba Cloud
 - Operating Systems: Linux, Windows, Mac
 - Containerization: Docker 🐳, Kubernetes ☸, containerd
@@ -36,7 +36,7 @@ Either way, I'm **all about Cloud, Systems, and Software Infrastructure Automati
 - Configuration Management: Ansible, Microsoft System Center Configuration Manager (SCCM)
 - CI/CD Pipelines: GitHub Actions, Jenkins
 
-### 🔧 **Development and Automation**
+### 🔧 **Development and Software**
 
 - Scripting: Bash, PowerShell, Batch, CMD
 - Programming: Python, JavaScript, TypeScript, C++, Java
