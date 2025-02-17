@@ -1,16 +1,74 @@
-## Hi there 👋
+# What's up? I'm Richard Galvez. 👨‍💻
 
-<!--
-**richardgalvez/richardgalvez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*I am a...*
 
-Here are some ideas to get you started:
+(Take Your Pick) 👉 **DevOps Engineer | Site Reliability Engineer | Infrastructure Engineer | Platform Engineer | Systems Engineer** ⚙️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Either way, I'm **all about Cloud, Systems, and Software Infrastructure Automation** 🤖
+
+---
+
+🔹 Passionate about automating workflows, optimizing native and hybrid-cloud infrastructures, and building modern, scalable, resilient systems for the now and the future.
+
+🔹 Experienced in AWS, Kubernetes, Terraform, CI/CD pipelines, and system automation.
+
+🔹 Always exploring new tech and refining best practices to enhance software delivery and reliability!
+
+---
+
+## 📢 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/richardalbertogalvez) [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/richardgalvez)
+
+💡 I'm open to collaborating on exciting projects, discussing tech trends, and sharing knowledge when I can!
+
+---
+
+## 🛠 My Current Tech Stacks and Toolbox 🧰
+
+### ☁️ **Cloud and Infrastructure**
+
+- Amazon Web Services (AWS): VPC, S3, RDS, Lambda, SSM
+- Microsoft Azure and Alibaba Cloud
+- Operating Systems: Linux, Windows, Mac
+- Containerization: Docker 🐳, Kubernetes ☸, containerd
+- Infrastructure as Code (IaC): Terraform
+- Configuration Management: Ansible, Microsoft System Center Configuration Manager (SCCM)
+- CI/CD Pipelines: GitHub Actions, Jenkins
+
+### 🔧 **Development and Automation**
+
+- Scripting: Bash, PowerShell, Batch, CMD
+- Programming: Python, JavaScript, TypeScript, C++, Java
+- Database Management: PostgreSQL, MySQL, Microsoft SQL Server
+- Configuration and Monitoring: Dynatrace, MWatch, CloudWatch
+
+---
+
+## 📂 Project Spotlight 🔬
+
+### 📌 [Task Management System](https://github.com/richardgalvez/Tasked) *(Python, TypeScript, SQL)*
+- **Built with**: FastAPI, React, SQLAlchemy, Postgres, Vite, Axios
+- **Features**: Scalable architecture, real-time task tracking, robust data workflows
+
+### 🎤 [Karaoke Song Recommendation System](https://github.com/richardgalvez/han-karaoke-ml) *(Python, AI/ML)*
+- **Built with**: Flask, K-Means clustering, PCA
+- **Features**: AI-driven song recommendations, intelligent clustering
+
+---
+
+## 📜 Certifications 📋
+
+✅ **Certified Kubernetes Administrator (CKA)** - The Linux Foundation and The Cloud Native Computing Foundation (CNCF)
+
+✅ **AWS Certified Cloud Practitioner**
+
+✅ **ITIL 4 Foundation** - Axelos
+
+✅ **Linux Essentials** - Linux Professional Institute
+
+---
+
+Plenty more cool items and projects in progress so feel free to get connected and reach out! 🫡
+
+*Stay tuned...*
