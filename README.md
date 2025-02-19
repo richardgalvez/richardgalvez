@@ -28,7 +28,7 @@ Either way, I'm **all about automating the boring stuff in all kinds of Cloud, S
 
 ### ☁️ **Cloud and Infrastructure**
 
-- Amazon Web Services (AWS): EC2, IAM, VPC, S3, RDS, EKS, Lambda, SSM
+- Amazon Web Services (AWS): EC2, IAM, VPC, S3, RDS, EKS, Lambda, SSM, Route 53, Certificate Manager (ACM)
 - Microsoft Azure and Alibaba Cloud
 - Operating Systems: Linux, Windows, Mac
 - Containerization: Docker 🐳, Kubernetes ☸, containerd
@@ -47,11 +47,11 @@ Either way, I'm **all about automating the boring stuff in all kinds of Cloud, S
 
 ## 📂 Project Spotlight 🔬
 
-### 📌 [Task Management System](https://github.com/richardgalvez/Tasked) *(Python, TypeScript, SQL)*
+### 📌 [Task Management System](https://github.com/richardgalvez/Tasked) *(Python, TypeScript, SQL, Docker Compose)*
 - **Built with**: FastAPI, React, SQLAlchemy, Postgres, Vite, Axios
 - **Features**: Scalable architecture, real-time task tracking, robust data workflows
 
-### 🎤 [Karaoke Song Recommendation System](https://github.com/richardgalvez/han-karaoke-ml) *(Python, AI/ML)*
+### 🎤 [Karaoke Song Recommendation System](https://github.com/richardgalvez/han-karaoke-ml) *(Python, AI/ML, Docker)*
 - **Built with**: Flask, K-Means clustering, PCA
 - **Features**: AI-driven song recommendations, intelligent clustering
 
