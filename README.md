@@ -8,11 +8,11 @@ Either way, I'm **all about automating the boring stuff in all kinds of Cloud, S
 
 ---
 
-🔹 Passionate about automating workflows, optimizing native and hybrid-cloud infrastructures, and building modern, scalable, resilient systems for the now and the future.
+🔹 Deeply dedicated and passionate about technology, automating workflows, optimizing native and hybrid-cloud infrastructures, and building modern, scalable, resilient systems and software for the now and the future.
 
-🔹 Experienced in AWS, Kubernetes, Terraform, CI/CD pipelines, and system automation.
+🔹 Experienced in AWS, Kubernetes, Terraform, CI/CD pipelines, and system + software automation.
 
-🔹 Always exploring new tech and refining best practices to enhance software delivery and reliability!
+🔹 Always exploring new tech along with applying and refining best practices to enhance software delivery and reliability!
 
 ---
 
@@ -28,20 +28,20 @@ Either way, I'm **all about automating the boring stuff in all kinds of Cloud, S
 
 ### ☁️ **Cloud and Infrastructure**
 
-- Amazon Web Services (AWS): EC2, IAM, VPC, S3, RDS, EKS, Lambda, SSM, Route 53, Certificate Manager (ACM)
+- Amazon Web Services (AWS): EC2, EKS, IAM, VPC, S3, Systems Manager (SSM), Route 53, RDS, Lambda, Certificate Manager (ACM)
 - Microsoft Azure and Alibaba Cloud
-- Operating Systems: Linux, Windows, Mac
+- Operating Systems: Linux/Unix, Windows, macOS
 - Containerization: Docker 🐳, Kubernetes ☸, containerd
 - Infrastructure as Code (IaC): Terraform
 - Configuration Management: Ansible, Microsoft System Center Configuration Manager (SCCM)
-- CI/CD Pipelines: GitHub Actions, Jenkins
+- CI/CD: GitHub Actions, Jenkins
 
 ### 🔧 **Development and Software**
 
 - Scripting: Bash, PowerShell, Batch, CMD
 - Programming: Python, JavaScript, TypeScript, C++, Java
 - Database Management: PostgreSQL, MySQL, Microsoft SQL Server
-- Configuration and Monitoring: Dynatrace, MWatch, CloudWatch
+- Configuration and Monitoring: CloudWatch, Dynatrace 
 
 ---
 
@@ -52,7 +52,7 @@ Either way, I'm **all about automating the boring stuff in all kinds of Cloud, S
 - **Features**: Scalable architecture, real-time task tracking, robust data workflows
 
 ### 🎤 [Karaoke Song Recommendation System](https://github.com/richardgalvez/han-karaoke-ml) *(Python, AI/ML, Docker)*
-- **Built with**: Flask, K-Means clustering, PCA
+- **Built with**: Flask, Jupyter Notebook, K-Means clustering, PCA
 - **Features**: AI-driven song recommendations, intelligent clustering
 
 ---
