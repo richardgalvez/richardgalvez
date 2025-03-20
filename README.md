@@ -2,7 +2,7 @@
 
 *I am a...* (Take Your Pick 👇)
 
-**DevOps Engineer | Site Reliability Engineer | Infrastructure Engineer | Platform Engineer | Systems Engineer** ⚙️
+**DevOps Engineer | Site Reliability Engineer | Infrastructure Engineer | Platform Engineer | Cloud Engineer | Systems Engineer** ⚙️
 
 Either way, I'm **all about automating the boring stuff in all kinds of Cloud, Systems, and Software infrastructure** 🤖
 
