@@ -1,18 +1,10 @@
 # What's up? I'm Richard Galvez. 👨‍💻
 
-*I am a...* (Take Your Pick 👇)
-
-**DevOps Engineer | Site Reliability Engineer | Platform Engineer | Infrastructure Engineer | Software Engineer | Cloud Engineer | Systems Engineer** ⚙️
-
-Either way, I'm **all about automating the boring stuff in all kinds of Cloud, Systems, and Software infrastructure** 🤖
-
----
-
-🔹 Deeply dedicated and passionate about technology, automating workflows, optimizing native and hybrid-cloud infrastructures, and building modern, scalable, resilient systems and software for the now and the future.
+🔹 Deeply dedicated and passionate about technology, automating workflows, optimizing native and hybrid-cloud infrastructures, and building modern, scalable, resilient software and systems for the now and the future.
 
 🔹 Experienced in AWS, Kubernetes, Terraform, CI/CD pipelines, and system + software automation.
 
-🔹 Always exploring new tech along with applying and refining best practices to enhance software delivery and reliability!
+🔹 Always exploring new tech along with applying and refining best practices to enhance software implementation, delivery, and reliability!
 
 ---
 
