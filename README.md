@@ -1,14 +1,12 @@
 # What's up? I'm Richard Galvez. 👨‍💻
 
-🔹 Deeply dedicated and passionate about technology, automating workflows, optimizing native and hybrid-cloud infrastructures, and building modern, scalable, resilient software and systems for the now and the future.
+🔹 Deeply dedicated and passionate about technology, automating workflows, optimizing native and hybrid-cloud infrastructures, and building + delivering modern, scalable, resilient software and systems for the now and the future.
 
-🔹 Experienced in AWS, Kubernetes, Terraform, CI/CD pipelines, and system + software automation.
-
-🔹 Always exploring new tech along with applying and refining best practices to enhance software implementation, delivery, and reliability!
+🔹 Experienced in AWS, Terraform, Docker, Kubernetes, CI/CD pipelines, full-stack development, and automating the boring stuff.
 
 ---
 
-## 🛠 My Current Tech Stacks and Toolbox 🧰
+## 🛠 Current Tech Stacks and Toolbox 🧰
 
 ### ☁️ **Cloud and Infrastructure**
 
