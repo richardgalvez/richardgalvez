@@ -8,14 +8,6 @@
 
 ---
 
-## 📢 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/richardalbertogalvez) [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/richardgalvez)
-
-💡 I'm open to collaborating on exciting projects, discussing tech trends, and sharing knowledge when I can!
-
----
-
 ## 🛠 My Current Tech Stacks and Toolbox 🧰
 
 ### ☁️ **Cloud and Infrastructure**
@@ -49,18 +41,4 @@
 
 ---
 
-## 📜 Certifications 📋
-
-✅ **Certified Kubernetes Administrator (CKA)** - The Linux Foundation and The Cloud Native Computing Foundation (CNCF)
-
-✅ **AWS Certified Cloud Practitioner**
-
-✅ **ITIL 4 Foundation** - Axelos
-
-✅ **Linux Essentials** - Linux Professional Institute
-
----
-
-Plenty more cool items and projects in progress so feel free to get connected and reach out! 🫡
-
-*Stay tuned...*
+Plenty more cool projects in progress so feel free to get connected and reach out!
