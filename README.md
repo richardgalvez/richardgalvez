@@ -10,20 +10,20 @@
 
 ### 🔧 **Development and Software**
 
-- Languages and Formats: Python, JavaScript, TypeScript, Go, C++, Java, HTML, CSS, YAML, JSON, XML
-- Scripting: Bash, PowerShell, Batch, CMD
-- Database Management: PostgreSQL, MySQL, Microsoft SQL Server, SQLite
-- Observability and Monitoring: CloudWatch, Dynatrace 
+- **Languages and Formats:** Python, JavaScript, TypeScript, Go, C++, Java, HTML, CSS, YAML, JSON, XML
+- **Scripting:** Bash, PowerShell, Batch, CMD
+- **Database Management:** PostgreSQL, MySQL, Microsoft SQL Server, SQLite
+- **Observability and Monitoring:** CloudWatch, Dynatrace 
 
 ### ☁️ **Cloud and Infrastructure**
 
-- Amazon Web Services (AWS): EC2, EKS, IAM, VPC, S3, Systems Manager (SSM), Route 53, RDS, Lambda, Certificate Manager (ACM)
-- Microsoft Azure and Alibaba Cloud
-- Operating Systems: Linux/Unix, Windows, macOS
-- Containerization: Docker, Kubernetes, containerd
-- Infrastructure as Code (IaC): Terraform
-- CI/CD: GitHub Actions, Jenkins
-- Configuration Management: Ansible, Microsoft System Center Configuration Manager (SCCM)
+- **Amazon Web Services (AWS):** EC2, EKS, IAM, VPC, S3, Systems Manager (SSM), Route 53, RDS, Lambda, Certificate Manager (ACM)
+- **Additonal Cloud Platforms:** Microsoft Azure and Alibaba Cloud
+- **Operating Systems:** Linux/Unix, Windows, macOS
+- **Containerization and Orchestration:** Docker, Docker Compose, containerd, Kubernetes 
+- **Infrastructure as Code (IaC):** Terraform
+- **CI/CD:** GitHub Actions, Jenkins
+- **Configuration Management:** Ansible, Microsoft System Center Configuration Manager (SCCM)
 
 ---
 
